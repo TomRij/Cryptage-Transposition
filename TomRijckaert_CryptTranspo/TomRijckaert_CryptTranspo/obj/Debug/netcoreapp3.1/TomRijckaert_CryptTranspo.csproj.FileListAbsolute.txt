@@ -1,0 +1,5 @@
+H:\Cryptage-Transposition\TomRijckaert_CryptTranspo\TomRijckaert_CryptTranspo\obj\Debug\netcoreapp3.1\TomRijckaert_CryptTranspo.csproj.AssemblyReference.cache
+H:\Cryptage-Transposition\TomRijckaert_CryptTranspo\TomRijckaert_CryptTranspo\obj\Debug\netcoreapp3.1\TomRijckaert_CryptTranspo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Cryptage-Transposition\TomRijckaert_CryptTranspo\TomRijckaert_CryptTranspo\obj\Debug\netcoreapp3.1\TomRijckaert_CryptTranspo.AssemblyInfoInputs.cache
+H:\Cryptage-Transposition\TomRijckaert_CryptTranspo\TomRijckaert_CryptTranspo\obj\Debug\netcoreapp3.1\TomRijckaert_CryptTranspo.AssemblyInfo.cs
+H:\Cryptage-Transposition\TomRijckaert_CryptTranspo\TomRijckaert_CryptTranspo\obj\Debug\netcoreapp3.1\TomRijckaert_CryptTranspo.csproj.CoreCompileInputs.cache
