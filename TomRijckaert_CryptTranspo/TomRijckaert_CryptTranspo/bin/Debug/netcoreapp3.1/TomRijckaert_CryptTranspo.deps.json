@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TomRijckaert_CryptTranspo/1.0.0": {
+        "runtime": {
+          "TomRijckaert_CryptTranspo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TomRijckaert_CryptTranspo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj": {}
+    "C:\\Users\\Tom\\OneDrive\\Documents\\école\\5e\\info\\c#\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj": {}
   },
   "projects": {
-    "H:\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj": {
+    "C:\\Users\\Tom\\OneDrive\\Documents\\école\\5e\\info\\c#\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj",
+        "projectUniqueName": "C:\\Users\\Tom\\OneDrive\\Documents\\école\\5e\\info\\c#\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj",
         "projectName": "TomRijckaert_CryptTranspo",
-        "projectPath": "H:\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj",
-        "packagesPath": "C:\\Users\\200082.asty-moulin\\.nuget\\packages\\",
-        "outputPath": "H:\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\obj\\",
+        "projectPath": "C:\\Users\\Tom\\OneDrive\\Documents\\école\\5e\\info\\c#\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo.csproj",
+        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tom\\OneDrive\\Documents\\école\\5e\\info\\c#\\Cryptage-Transposition\\TomRijckaert_CryptTranspo\\TomRijckaert_CryptTranspo\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\200082.asty-moulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
